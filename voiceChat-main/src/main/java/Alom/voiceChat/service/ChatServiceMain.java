@@ -1,4 +1,4 @@
-package Arom.voiceChat.service;
+package Alom.voiceChat.service;
 
 import Arom.voiceChat.dto.ChatRoomDto;
 import Arom.voiceChat.utils.ChatRoomMap;

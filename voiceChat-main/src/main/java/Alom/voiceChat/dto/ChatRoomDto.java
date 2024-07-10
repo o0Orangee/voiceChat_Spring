@@ -1,4 +1,4 @@
-package Arom.voiceChat.dto;
+package Alom.voiceChat.dto;
 
 import jakarta.validation.constraints.NotNull;
 import lombok.Getter;

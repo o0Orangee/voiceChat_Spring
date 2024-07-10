@@ -1,4 +1,4 @@
-package Arom.voiceChat.utils;
+package Alom.voiceChat.utils;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

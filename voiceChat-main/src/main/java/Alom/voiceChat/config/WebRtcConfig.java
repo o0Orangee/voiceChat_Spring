@@ -1,4 +1,4 @@
-package Arom.voiceChat.config;
+package Alom.voiceChat.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;

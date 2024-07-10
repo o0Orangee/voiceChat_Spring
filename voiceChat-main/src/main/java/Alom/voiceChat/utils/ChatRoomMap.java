@@ -1,4 +1,4 @@
-package Arom.voiceChat.utils;
+package Alom.voiceChat.utils;
 
 import Arom.voiceChat.dto.ChatRoomDto;
 import lombok.Getter;
