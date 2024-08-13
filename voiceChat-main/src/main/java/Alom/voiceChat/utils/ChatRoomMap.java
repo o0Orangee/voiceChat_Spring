@@ -1,3 +1,4 @@
+/*
 package Alom.voiceChat.utils;
 
 import Arom.voiceChat.dto.ChatRoomDto;
@@ -19,3 +20,4 @@ public class ChatRoomMap {
         return chatRoomMap;
     }
 }
+*/
